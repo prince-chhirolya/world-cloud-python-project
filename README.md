@@ -2,3 +2,4 @@
 
 # Word Cloud Python Project
 Created by --> Prince Chhirolya 
+email --> chhirolyaprince@gmail.com
